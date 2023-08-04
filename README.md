@@ -1,2 +1,2 @@
-# DppWeb
-DPP WebStation
+# DAppWeb
+DAPP Web Station
